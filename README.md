@@ -18,7 +18,8 @@ Learn how to create websites. A step by step process is used to show everything 
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
 <DIV class=book-info-will-learn-text>
-This HTML course is meant for individuals looking to start their web development career. The only skill required is knowing how to turn on a computer and a basic understanding of websites is helpful but not essential.<DIV>
+<UL>
+  <LI>This HTML course is meant for individuals looking to start their web development career. The only skill required is knowing how to turn on a computer and a basic understanding of websites is helpful but not essential.</LI></UL><DIV>
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
